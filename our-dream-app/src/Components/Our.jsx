@@ -48,6 +48,7 @@ const teamMembers = [
     id: 1,
     name: "Vasyl Peleshko",
     position: "TeamLead",
+    about: "Genius frontend developer(node + react), Sombra I`m waiting for your offer",
     image: Ya,
   },
   {
