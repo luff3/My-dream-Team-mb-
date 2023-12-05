@@ -59,7 +59,7 @@ const teamMembers = [
 },
 {
     id: 3,
-    name: 'Sophia Mykhailova',
+    name: 'Sofiia Mykhailova',
     position: 'Strong Senior Dev Angular',
     image: Sophia,
 },
