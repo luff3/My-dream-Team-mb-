@@ -4,6 +4,7 @@ import Bradok from "../Assests/Brad.jpg";
 import Ya from "../Assests/Ya.jpg";
 import Sophia from "../Assests/Sophia.jpg";
 import Ivan from "../Assests/Ivan.png";
+import taras from   "../Assests/taras.jpg";
 
 // Фон приницпі можеш лишити
 const TeamContainer = styled.div`
@@ -69,6 +70,12 @@ const teamMembers = [
     name: "Ivan Petriv",
     position: "Unftnl Senior Dev Python",
     image: Ivan,
+  },
+  {
+    id: 5,
+    name: "Taras Maryniak",
+    position: "Unftnl Senior Dev Python",
+    image: taras,
   },
 ];
 
