@@ -4,7 +4,7 @@ import Bradok from "../Assests/Brad.jpg";
 import Ya from "../Assests/Ya.jpg";
 import Sophia from "../Assests/Sophia.jpg";
 import Ivan from "../Assests/Ivan.png";
-import taras from   "../Assests/taras.jpg";
+import taras from "../Assests/taras.jpg";
 
 // Фон приницпі можеш лишити
 const TeamContainer = styled.div`
@@ -61,8 +61,8 @@ const teamMembers = [
   },
   {
     id: 3,
-    name: 'Sofiia Mykhailova',
-    position: 'Strong Senior Dev Angular',
+    name: "Sofiia Mykhailova",
+    position: "Strong Senior Dev Angular",
     image: Sophia,
   },
   {
@@ -76,6 +76,7 @@ const teamMembers = [
     name: "Taras Maryniak",
     position: "Unftnl Senior Dev Python",
     image: taras,
+    about: "Genius taxi driver",
   },
 ];
 
